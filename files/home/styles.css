@@ -1,0 +1,109 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/home/bg.jpg');
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+  position:static;
+  left:auto;
+  width:830px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:340px;
+  height:80px;
+}
+#u0 {
+  border-width:0px;
+  position:absolute;
+  left:130px;
+  top:330px;
+  width:340px;
+  height:80px;
+}
+#u0_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:21px;
+  width:336px;
+  word-wrap:break-word;
+}
+#u1_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:341px;
+  height:80px;
+}
+#u1 {
+  border-width:0px;
+  position:absolute;
+  left:70px;
+  top:200px;
+  width:341px;
+  height:80px;
+}
+#u1_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:21px;
+  width:337px;
+  word-wrap:break-word;
+}
+#u2_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:640px;
+  height:72px;
+  background:-webkit-linear-gradient(270deg, rgba(244, 50, 50, 1) 0%, rgba(244, 50, 50, 1) 0%, rgba(204, 102, 153, 1) 100%, rgba(204, 102, 153, 1) 100%);
+  background:-moz-linear-gradient(180deg, rgba(244, 50, 50, 1) 0%, rgba(244, 50, 50, 1) 0%, rgba(204, 102, 153, 1) 100%, rgba(204, 102, 153, 1) 100%);
+  background:linear-gradient(180deg, rgba(244, 50, 50, 1) 0%, rgba(244, 50, 50, 1) 0%, rgba(204, 102, 153, 1) 100%, rgba(204, 102, 153, 1) 100%);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 51, 153, 0.349019607843137);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 51, 153, 0.349019607843137);
+  box-shadow:5px 5px 5px rgba(0, 51, 153, 0.349019607843137);
+  font-family:'Helvetica-Bold', 'Helvetica Bold', 'Helvetica';
+  font-weight:700;
+  font-style:normal;
+  font-size:36px;
+}
+#u2 {
+  border-width:0px;
+  position:absolute;
+  left:190px;
+  top:50px;
+  width:640px;
+  height:72px;
+  font-family:'Helvetica-Bold', 'Helvetica Bold', 'Helvetica';
+  font-weight:700;
+  font-style:normal;
+  font-size:36px;
+}
+#u2_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:636px;
+  word-wrap:break-word;
+}
