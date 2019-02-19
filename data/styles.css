@@ -72,7 +72,7 @@
   text-align:left;
 }
 .topmenu {
-  font-family:'HannotateTC-W5', 'Hannotate TC';
+  font-family:'Palatino-Roman', 'Palatino';
   font-weight:400;
   font-style:normal;
   font-size:27px;
@@ -93,14 +93,14 @@
   color:#DD5566;
 }
 .submenu2 {
-  font-family:'STHeitiSC-Medium', 'Heiti SC Medium', 'Heiti SC';
+  font-family:'TrebuchetMS-Bold', 'Trebuchet MS Bold', 'Trebuchet MS';
   font-weight:700;
   font-style:normal;
-  font-size:28px;
+  font-size:26px;
   color:#BC1939;
 }
 .submenu2rev {
-  font-family:'STHeitiSC-Medium', 'Heiti SC Medium', 'Heiti SC';
+  font-family:'TrebuchetMS-Bold', 'Trebuchet MS Bold', 'Trebuchet MS';
   font-weight:700;
   font-style:normal;
   font-size:28px;
